@@ -1,9 +1,9 @@
-# tropwet_rwanda
-A simple leaflet map to show TropWet outputs
+# tropwet_sudd
+A simple leaflet map to show TropWet outputs for The Sudd Wetlands, South Sudan
 
 ## Link to my live map
 
-https://ajhardy13.github.io/tropwet_rwanda/ 
+https://ajhardy13.github.io/tropwet_sudd/ 
 
 ## Learn more
 - See the website for generating TropWet products: https://www.aber.ac.uk/en/dges/research/earth-observation-laboratory/research/tropwet/
